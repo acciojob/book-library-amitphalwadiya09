@@ -3,6 +3,9 @@ body{
 	background-color:#f8f8f8;
 	margin:20px;
 }
+h1{
+	text-align:center;
+}
 .book-library{
 	background-color:#ffffff;
 	}
