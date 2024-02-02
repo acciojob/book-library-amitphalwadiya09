@@ -10,6 +10,7 @@ h1 {
 .book-library {
     background-color: rgb(255,255,255);
     padding-top: 20px;
+	position:relative;
 }
 
 .book {
@@ -22,6 +23,7 @@ h1 {
 .book img {
     max-width: 100px;
     margin-right: 10px;
+	position:center;
 }
 
 .price {
